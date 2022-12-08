@@ -105,7 +105,7 @@ process.stdout.on('resize', () => {
 
 writeLine('          *** NodeNicehashMiner by Markus Haverinen ***', 0, 0, true);
 writeLine(
-    ttyDim + '      BTC Donation address: ' + ttyReset + ttyUnderscore + '3CC35VEKMd861aWWSgGqPyRurc4JXCTpsX',
+    ttyDim + '      BTC Donation address: ' + ttyReset + ttyUnderscore + 'NHbCy4BBChWu7vRwohzJQV2FkaPFAfQYVU8A',
     0,
     1
 );
